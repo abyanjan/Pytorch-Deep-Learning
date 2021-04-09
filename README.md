@@ -11,3 +11,5 @@ Deep learning applications with Pytorch
 - [Sentiment_classification_with_pretrained_word_embeddings.ipynb](https://github.com/abyanjan/Pytorch-Deep-Learning/blob/master/Sentiment_classification_with_pretrained_word_embeddings.ipynb):
 Text classification for Sentiment analysis of Tweets with Pytorch and LSTM networks with pre-trainef Glove Word Embeddings.
 
+- [Transfer_Learning.ipynb](https://github.com/abyanjan/Pytorch-Deep-Learning/blob/master/Transfer_Learning.ipynb): Transfer Learning with VGG16 to classify images of Flowers.
+
